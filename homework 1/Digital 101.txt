@@ -1,3 +1,12 @@
-differences
+Command-Line interface is a much faster means of completeing tasks compared to the Graphical user interface
+	
+
+CLI van obtain much higher precision over GUI
+
+No menu provied for CLI but for GUI there is a menu
+
+CLI runs faster than GUI
+
+CLI consumes low memory unlike GUI cosumeing much more memory
 
 	
